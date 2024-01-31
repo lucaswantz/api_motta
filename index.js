@@ -6,4 +6,4 @@ app.get('/', (request, response) => {
 	response.json({message: "🚀 Server is running..."});
 });
 
-app.listen(3000);
+app.listen(3333);
